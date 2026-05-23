@@ -1,0 +1,14 @@
+{
+    "name": "Neural Alpha",
+    "version": "3.0",
+    "authors": [
+        "Bayu setiawan",
+        "Rakha Daffa T. T."
+    ],
+    "description": "Strategi greedy Bot alternatif 2 : Tabrak (ram) musuh dengan energi < 30",
+    "countryCodes": [
+        "id"
+    ],
+    "platform": ".Net",
+    "programmingLang": "C#"
+}

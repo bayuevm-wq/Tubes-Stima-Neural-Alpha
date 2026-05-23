@@ -1,0 +1,14 @@
+{
+    "name": "Neural Alpha",
+    "version": "4.0",
+    "authors": [
+        "Bayu setiawan",
+        "Rakha Daffa T. T."
+    ],
+    "description": "Strategi greedy Bot alternatif 3 : Wall-hugging, hindari konflik, bertahan hidup",
+    "countryCodes": [
+        "id"
+    ],
+    "platform": ".Net",
+    "programmingLang": "C#"
+}

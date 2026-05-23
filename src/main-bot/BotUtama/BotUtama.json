@@ -1,0 +1,14 @@
+{
+    "name": "Neural Alpha",
+    "version": "1.0",
+    "authors": [
+        "Bayu setiawan",
+        "Rakha Daffa T. T."
+    ],
+    "description": "Strategi greedy Utama : Kejar musuh energi terendah",
+    "countryCodes": [
+        "id"
+    ],
+    "platform": ".Net",
+    "programmingLang": "C#"
+}
