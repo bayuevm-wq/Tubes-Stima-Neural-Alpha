@@ -115,7 +115,7 @@ Proyek ini mengimplementasikan **4 variasi strategi greedy** dengan heuristik be
 
 ### Langkah 1 — Jalankan Server Robocode Tank Royale
 
-Klik dua kali pada file `robocode-tankroyale-gui-0.30.0.jar`, atau jalankan melalui terminal:
+Unduh file `robocode-tankroyale-gui-0.30.0.jar` dari rilis resmi Robocode Tank Royale, letakkan di folder yang Anda inginkan, lalu jalankan melalui terminal:
 
 ```bash
 java -jar robocode-tankroyale-gui-0.30.0.jar
@@ -175,11 +175,6 @@ dotnet run
  ┃   ┣ 📂 alt-bot-1              ← Source code AltBot1 (GreedySniper)
  ┃   ┣ 📂 alt-bot-2              ← Source code AltBot2 (GreedyRammer)
  ┃   ┗ 📂 alt-bot-3              ← Source code AltBot3 (GreedySurvivor)
- ┣ 📜 robocode-tankroyale-gui-0.30.0.jar  ← Aplikasi Robocode
- ┣ 📜 config.properties          ← Konfigurasi GUI
- ┣ 📜 games.properties           ← Konfigurasi permainan
- ┣ 📜 server.properties          ← Konfigurasi Server
- ┣ 📜 .gitignore
  ┗ 📜 README.md
 ```
 
